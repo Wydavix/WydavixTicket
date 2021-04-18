@@ -1,0 +1,23 @@
+{
+  "name": "wydavixticket",
+  "version": "1.0.0",
+  "description": "bot discord public de gestion de panel de ticket",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wydavix/WydavixTicket.git"
+  },
+  "author": "Wydavix [MJlulu02, DevNetwork]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wydavix/WydavixTicket/issues"
+  },
+  "homepage": "https://github.com/Wydavix/WydavixTicket#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.7"
+  }
+}
