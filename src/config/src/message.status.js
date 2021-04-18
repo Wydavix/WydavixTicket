@@ -1,3 +1,11 @@
+/*
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+    file for all message for custom status
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+*/
+
 module.exports = (client) => [
   {
     name: `${client.guilds.cache.size} serveur`,
