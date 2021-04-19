@@ -1,4 +1,4 @@
-# <h1>📍 WydavixTicket</h1>
+#📍 WydavixTicket
 
 - 🔧 [Wydavix](https://www.wydavix.fr) Ticket Panel Bot.
 - 🎉 [Support Discord](https://discord.wydavix.fr).
