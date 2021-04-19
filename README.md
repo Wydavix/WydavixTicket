@@ -8,7 +8,7 @@
 
 - 💎 NodeJs v 15.14.0 [(NodeJs)](https://nodejs.org/en/)
 - 💎 DiscordJs v 12.0.4 [(DiscordJs)](https://www.npmjs.com/package/discord.js)
-- 💎 Mariandb v 12.0.4 [(Mariadb)](https://www.npmjs.com/package/mariadb)
+- 💎 Mariadb v 12.0.4 [(Mariadb)](https://www.npmjs.com/package/mariadb)
 
 ## 💻 Use Bot
 
@@ -23,6 +23,7 @@ __Here is the list of available commands :__
 ```bash
 # Help command to display a message with all the information about the bot.
 w!help
+
 # Initialization command to initialize the bot system for your discord server to create a configuration channel.
 w!init
 ```
