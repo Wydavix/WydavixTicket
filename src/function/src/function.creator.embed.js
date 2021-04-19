@@ -12,7 +12,6 @@ const config = require('../../config');
 module.exports = class embed {
   static create(option) {
     const embed = new Discord.MessageEmbed();
-
     if (option.color) {
       embed.setColor(config.color[option.color]);
     }
