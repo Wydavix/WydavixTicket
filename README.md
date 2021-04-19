@@ -6,9 +6,9 @@
 
 ## 📚 Dependence Bot Use
 
-- 💎 NodeJs v 15.14.0 [(NodeJs)](https://nodejs.org/en/)
-- 💎 DiscordJs v 12.0.4 [(DiscordJs)](https://www.npmjs.com/package/discord.js)
-- 💎 Mariadb v 12.0.4 [(Mariadb)](https://www.npmjs.com/package/mariadb)
+- 💎 NodeJs V 15.14.0 [(NodeJs)](https://nodejs.org/en/)
+- 💎 DiscordJs V 12.0.4 [(DiscordJs)](https://www.npmjs.com/package/discord.js)
+- 💎 Mariadb V 12.0.4 [(Mariadb)](https://www.npmjs.com/package/mariadb)
 
 ## 💻 Use Bot
 
