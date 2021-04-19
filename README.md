@@ -18,19 +18,14 @@ To use the discord bot you just have to invite it through this link [(Click here
 
 🛠️ Prefix : **w!**
 
+__Here is the list of available commands :__
+
 ```
-- w!help
-- w!init
+# Help command to display a message with all the information about the bot.
+w!help
+# Initialization command to initialize the bot system for your discord server to create a configuration channel.
+w!init
 ```
-
-
-# w!help 
-
-- Help command to display a message with all the information about the bot.
-
-# w!init
-
-- Initialization command to initialize the bot system for your discord server to create a configuration channel.
 
 ## 🙎‍♂️ Author
 
