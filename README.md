@@ -12,7 +12,7 @@
 
 ## 💻 Use Bot
 
-To use the discord bot you just have to invite it through this link [(Click here)](https://discord.com/oauth2/authorize?client_id=833371524744347689&scope=bot&permissions=8). After you invite it you have to run the `w!init` command to initialize the bot. A channel will be created afterwards so that you can configure it for your server.
+To use the discord bot you just have to invite it through this link [**(Click here)**](https://discord.com/oauth2/authorize?client_id=833371524744347689&scope=bot&permissions=8). After you invite it you have to run the `w!init` command to initialize the bot. A channel will be created afterwards so that you can configure it for your server.
 
 ## ⚙️ Commands
 
@@ -20,7 +20,7 @@ To use the discord bot you just have to invite it through this link [(Click here
 
 __Here is the list of available commands :__
 
-```
+```bash
 # Help command to display a message with all the information about the bot.
 w!help
 # Initialization command to initialize the bot system for your discord server to create a configuration channel.
