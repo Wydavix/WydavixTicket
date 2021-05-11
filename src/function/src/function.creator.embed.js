@@ -6,12 +6,13 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 */
 
-const Discord = require('discord.js');
-const config = require('../../config');
+const Discord = require("discord.js");
+const config = require("../../config");
 
 module.exports = class embed {
   static create(option) {
     const embed = new Discord.MessageEmbed();
+    let ishexa = false;
     if (option.color) {
       embed.setColor(config.color[option.color]);
     }
@@ -28,7 +29,7 @@ module.exports = class embed {
       option.channel.send(embed).then((ms) =>
         setTimeout(() => {
           ms.delete();
-        }, duration),
+        }, option.duration)
       );
       return;
     }

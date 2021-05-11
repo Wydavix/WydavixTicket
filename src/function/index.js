@@ -6,11 +6,12 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 */
 
-const config = require('../config');
+const config = require("../config");
 
 module.exports = {
-  basic: require('./src/function.basic'),
-  embed: require('./src/function.creator.embed'),
-  bdd: require('./src/function.bdd'),
-  permissions: require('./src/function.permission'),
+  basic: require("./src/function.basic"),
+  embed: require("./src/function.creator.embed"),
+  bdd: require("./src/function.bdd"),
+  permissions: require("./src/function.permission"),
+  message: require("./src/function.message.others"),
 };
