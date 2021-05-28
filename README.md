@@ -2,7 +2,8 @@
 
 - 🔧 [Wydavix](https://www.wydavix.fr) Ticket Panel Bot.
 - 🎉 [Support Discord](https://discord.wydavix.fr).
-- 🔖 V 1.0.0
+- 🔖 V 2.0.1
+- ⚙️ The bot is still in development
 
 ## 📚 Dependence Bot Use
 
